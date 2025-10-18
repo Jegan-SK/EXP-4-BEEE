@@ -36,16 +36,40 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier with and without filter:
 
-Bridge rectifier with filter:
+<img width="489" height="350" alt="Screenshot 2025-10-18 095825" src="https://github.com/user-attachments/assets/93b9aadc-a272-46e2-a71b-e67aeb35cfe6" />
+
+
+Bridge rectifier with and without filter:
+
+<img width="567" height="352" alt="Screenshot 2025-10-18 095840" src="https://github.com/user-attachments/assets/05e662be-6c06-4108-aac9-decfd6de0448" />
+
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+
+Half Wave rectifier :
+
+<img width="407" height="146" alt="Screenshot 2025-10-18 100155" src="https://github.com/user-attachments/assets/6ff6709e-db20-43ec-9f99-e819ab3f53d1" />
+
+
+
+Full wave rectifier:
+
+<img width="431" height="93" alt="Screenshot 2025-10-18 100206" src="https://github.com/user-attachments/assets/73fcbe0f-98b6-4e42-b659-9f0e12d53333" />
+
 
 WAVEFORM:
+
+Half Wave rectifier :
+
+<img width="281" height="199" alt="Screenshot 2025-10-18 095928" src="https://github.com/user-attachments/assets/dc1b31f1-2ac8-42c9-b995-5e410a1e9eaa" />
+
+
+
+Full wave rectifier:
+
+<img width="667" height="487" alt="Screenshot 2025-10-18 095947" src="https://github.com/user-attachments/assets/06fde3ef-3cb3-4ba0-bd07-3c7cf02ab8de" />
 
 
 RESULT:
